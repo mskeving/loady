@@ -8,5 +8,8 @@
     "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
     "react/prefer-stateless-function": 0,
     "react/no-multi-comp": 0
-  }
+  },
+  settings: {
+    'import/resolver': 'webpack',
+  },
 }
